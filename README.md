@@ -1,4 +1,5 @@
 # Project Title: From Figma to Fully Responsive Portfolio Website 
+## This project is forked from my previous GitHub Account
 ## During this Project: 
 - Designed and refined visually appealing landing and project pages using Figma, creating detailed UI mockups to visualize layout, aesthetics, and user interactions
 - Strategically employed User Acceptance Testing (UAT) to validate design effectiveness and ensure alignment with user expectations and needs during the refinement of visually appealing landing and project pages using Figma
